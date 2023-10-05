@@ -1,4 +1,8 @@
 # React + TypeScript + Vite
+Esse projeto consiste em encontrar usuários do gitHub.
+Aqui está o link do deploy: https://github-finder-andrealyson.vercel.app/
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
